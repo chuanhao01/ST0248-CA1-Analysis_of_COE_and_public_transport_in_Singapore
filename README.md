@@ -2,7 +2,7 @@
 
 Hi again, this was a project I did as part of CA1 assignment for the module ST0248(PROGRAMMING FOR DATA SCIENCE) in Singapore Polytechnic.  
 
-Timeline: 4/11/2019 - 24/11/2019  
+Timeline: 4/11/2019 - 24/11/2019 (2 1/2 weeks - 3 weeks)  
 
 For this assignment, we were tasked to anaylse atleast 3 datasets from the [data.gov.sg](https://data.gov.sg) and were published by the Land Transport Authority(LTA).  
 You can view the datasets available [here](https://data.gov.sg/dataset?organization=land-transport-authority).  
@@ -33,3 +33,5 @@ This was quite a tough assignment for me personally as I had to use lower level 
 Hopefully, this project may be able to serve as a reference for you if you are also taking the same module in Singapore Polytechnic or if you want to anaylse the datasets here yourself.  
 If you do end up referencing my work I would appreciate it if you would acknowledge it somewhere in your project.  
 
+# LICENSE
+[MIT](LICENSE)
