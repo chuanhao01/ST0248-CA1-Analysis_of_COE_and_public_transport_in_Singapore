@@ -1,5 +1,7 @@
 # ST0248-CA1-Analysis_of_COE_and_public_transport_in_Singapore  
 
+## This repo is archived, look below
+
 **Note:** This project has been shifted to the over [here](https://github.com/chuanhao01/Public_SP/tree/master/PDS_ST0248/CA1/project)
 
 Hi again, this was a project I did as part of CA1 assignment for the module ST0248(PROGRAMMING FOR DATA SCIENCE) in Singapore Polytechnic.  
